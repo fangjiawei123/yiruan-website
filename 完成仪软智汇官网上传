@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>联系我们 - 青岛仪软智汇科技有限公司</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch"><button class="active" data-lang="zh">中</button><button data-lang="en">EN</button></div>
+    <nav class="navbar"><div class="nav-container"><div class="logo"><div class="logo-icon">仪</div><div class="logo-text"><h1>青岛仪软智汇</h1><span>实验室信息化解决方案专家</span></div></div><ul class="nav-menu"><li><a href="index.html">首页</a></li><li><a href="about.html">关于我们</a></li><li><a href="products.html">产品服务</a></li><li><a href="solutions.html">解决方案</a></li><li><a href="clients.html">客户案例</a></li><li><a href="contact.html" class="active">联系我们</a></li></ul><div class="mobile-menu-btn"><span></span><span></span><span></span></div></div></nav>
+    <main><section class="page-header"><h1>联系我们</h1><p>期待与您合作，共创数字化未来</p></section>
+    <div class="page-content"><div class="contact-grid">
+        <div class="contact-info"><h3>联系方式</h3><div class="contact-item"><div class="contact-icon">📍</div><div class="contact-details"><h4>公司地址</h4><p>山东省青岛市</p></div></div><div class="contact-item"><div class="contact-icon">📞</div><div class="contact-details"><h4>联系电话</h4><p>400-XXX-XXXX</p></div></div><div class="contact-item"><div class="contact-icon">✉️</div><div class="contact-details"><h4>电子邮箱</h4><p>contact@yiruan.com</p></div></div><div class="contact-item"><div class="contact-icon">⏰</div><div class="contact-details"><h4>工作时间</h4><p>周一至周五 9:00 - 18:00</p></div></div></div>
+        <div class="contact-form"><h3>商务咨询</h3><div style="background:#f7fafc;padding:30px;border-radius:10px;"><p style="margin-bottom:20px;">请留下您的联系方式，我们将尽快与您取得联系</p><p style="color:#1a365d;font-size:18px;font-weight:bold;">电话：400-XXX-XXXX</p></div></div>
+    </div></div></main>
+    <footer class="footer"><div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司</p></div></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>青岛仪软智汇科技有限公司 - 实验室信息化解决方案专家</title>
+    <meta name="description" content="青岛仪软智汇科技有限公司专注于实验室信息管理系统(LIMS)及相关核心技术的研发，为检验检测机构和企业提供完整的数字化解决方案。">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch">
+        <button class="active" data-lang="zh">中</button>
+        <button data-lang="en">EN</button>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <div class="logo-icon">仪</div>
+                <div class="logo-text">
+                    <h1 data-zh="青岛仪软智汇" data-en="Qingdao Yiruan">青岛仪软智汇</h1>
+                    <span data-zh="实验室信息化解决方案专家" data-en="Lab Information Solutions">实验室信息化解决方案专家</span>
+                </div>
+            </div>
+            
+            <ul class="nav-menu">
+                <li><a href="index.html" class="active" data-zh="首页" data-en="Home">首页</a></li>
+                <li><a href="about.html" data-zh="关于我们" data-en="About">关于我们</a></li>
+                <li><a href="products.html" data-zh="产品服务" data-en="Products">产品服务</a></li>
+                <li><a href="solutions.html" data-zh="解决方案" data-en="Solutions">解决方案</a></li>
+                <li><a href="clients.html" data-zh="客户案例" data-en="Clients">客户案例</a></li>
+                <li><a href="contact.html" data-zh="联系我们" data-en="Contact">联系我们</a></li>
+            </ul>
+            
+            <div class="mobile-menu-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="hero-container">
+                <div class="hero-content">
+                    <h2 data-zh="数字化实验室的引领者" data-en="Leading Digital Laboratory Solutions">数字化实验室的引领者</h2>
+                    <p class="subtitle" data-zh="专注实验室信息化 助力企业数字化转型" data-en="Focus on Lab Informatization">专注实验室信息化 助力企业数字化转型</p>
+                    <p data-zh="多年来一直专注于实验室信息管理系统及相关核心技术的研发，形成了应用于计量校准、检验检测等不同领域的系列产品。为检验检测机构和企业提供完整的数字化解决方案和全面的管理平台。" data-en="Focusing on LIMS development for years...">多年来一直专注于实验室信息管理系统及相关核心技术的研发，形成了应用于计量校准、检验检测等不同领域的系列产品。为检验检测机构和企业提供完整的数字化解决方案和全面的管理平台。</p>
+                    <div class="hero-buttons">
+                        <a href="products.html" class="btn btn-primary" data-zh="了解产品" data-en="Our Products">了解产品</a>
+                        <a href="contact.html" class="btn btn-secondary" data-zh="联系我们" data-en="Contact Us">联系我们</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div style="width:100%;height:400px;background:rgba(255,255,255,0.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:120px;">🧪</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="section-header">
+                <h2 data-zh="核心优势" data-en="Core Advantages">核心优势</h2>
+                <p data-zh="以技术创新为驱动，为客户提供卓越的产品和服务" data-en="Driven by technology innovation">以技术创新为驱动，为客户提供卓越的产品和服务</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card"><div class="feature-icon">🔬</div><h3 data-zh="专业技术" data-en="Professional Technology">专业技术</h3><p data-zh="多年深耕实验室信息化领域，拥有丰富的行业经验和技术积累" data-en="Years of experience in lab informatization">多年深耕实验室信息化领域，拥有丰富的行业经验和技术积累</p></div>
+                <div class="feature-card"><div class="feature-icon">🛡️</div><h3 data-zh="国产化适配" data-en="Domestic Adaptation">国产化适配</h3><p data-zh="产品全面兼容国产化操作系统，满足信创要求" data-en="Fully compatible with domestic OS">产品全面兼容国产化操作系统，满足信创要求</p></div>
+                <div class="feature-card"><div class="feature-icon">⚡</div><h3 data-zh="高效管理" data-en="Efficient Management">高效管理</h3><p data-zh="构建高效、安全、全程电子化的运行环境" data-en="Build efficient and secure digital environment">构建高效、安全、全程电子化的运行环境</p></div>
+                <div class="feature-card"><div class="feature-icon">🤝</div><h3 data-zh="优质服务" data-en="Quality Service">优质服务</h3><p data-zh="近千家客户遍布各领域，持续提供专业技术支持" data-en="Serving nearly 1000 clients across industries">近千家客户遍布各领域，持续提供专业技术支持</p></div>
+            </div>
+        </section>
+
+        <section class="products">
+            <div class="section-header">
+                <h2 data-zh="核心产品" data-en="Core Products">核心产品</h2>
+                <p data-zh="覆盖实验室全流程的数字化管理解决方案" data-en="Complete digital solutions for laboratory workflows">覆盖实验室全流程的数字化管理解决方案</p>
+            </div>
+            <div class="products-grid">
+                <div class="product-card"><div class="product-image">📊</div><div class="product-content"><h3 data-zh="实验室信息管理系统(LIMS)" data-en="LIMS">实验室信息管理系统(LIMS)</h3><p data-zh="应用于计量校准、检验检测等领域的专业管理系统，实现实验室全流程数字化管理。" data-en="Professional management system for calibration and testing">应用于计量校准、检验检测等领域的专业管理系统，实现实验室全流程数字化管理。</p><div class="product-tags"><span>计量校准</span><span>检验检测</span></div></div></div>
+                <div class="product-card"><div class="product-image">🏢</div><div class="product-content"><h3 data-zh="低代码ERP管理平台" data-en="Low-code ERP Platform">低代码ERP管理平台</h3><p data-zh="基于低代码技术的企业资源管理平台，灵活适配不同行业需求，快速构建业务应用。" data-en="Low-code enterprise resource management platform">基于低代码技术的企业资源管理平台，灵活适配不同行业需求，快速构建业务应用。</p><div class="product-tags"><span>低代码</span><span>ERP</span></div></div></div>
+                <div class="product-card"><div class="product-image">🔒</div><div class="product-content"><h3 data-zh="国产化解决方案" data-en="Domestic OS Solution">国产化解决方案</h3><p data-zh="全面兼容国产化操作系统和数据库，满足政府和企业信创建设要求。" data-en="Fully compatible with domestic OS and databases">全面兼容国产化操作系统和数据库，满足政府和企业信创建设要求。</p><div class="product-tags"><span>信创</span><span>国产化</span></div></div></div>
+            </div>
+        </section>
+
+        <section class="solutions">
+            <div class="section-header">
+                <h2 data-zh="行业解决方案" data-en="Industry Solutions">行业解决方案</h2>
+                <p data-zh="深耕行业，为不同领域客户提供专业的数字化解决方案" data-en="Professional solutions for various industries">深耕行业，为不同领域客户提供专业的数字化解决方案</p>
+            </div>
+            <div class="solutions-grid">
+                <div class="solution-card"><div class="solution-icon">⚖️</div><h3 data-zh="计量校准" data-en="Calibration">计量校准</h3><p data-zh="为计量校准机构提供完整的业务管理解决方案" data-en="Complete business management for calibration">为计量校准机构提供完整的业务管理解决方案</p></div>
+                <div class="solution-card"><div class="solution-icon">🔍</div><h3 data-zh="检验检测" data-en="Inspection">检验检测</h3><p data-zh="覆盖检测全流程的质量管理和报告系统" data-en="Quality management and reporting system">覆盖检测全流程的质量管理和报告系统</p></div>
+                <div class="solution-card"><div class="solution-icon">🏭</div><h3 data-zh="生产制造" data-en="Manufacturing">生产制造</h3><p data-zh="制药、石油化工、冶金电力、智能制造等领域" data-en="Pharma, petrochemical, metallurgy, smart manufacturing">制药、石油化工、冶金电力、智能制造等领域</p></div>
+                <div class="solution-card"><div class="solution-icon">🏛️</div><h3 data-zh="政府机构" data-en="Government">政府机构</h3><p data-zh="满足政府实验室信息化和信创建设需求" data-en="Meet government lab informatization needs">满足政府实验室信息化和信创建设需求</p></div>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stats-grid">
+                <div class="stat-item"><h3>1000+</h3><p data-zh="服务客户" data-en="Clients">服务客户</p></div>
+                <div class="stat-item"><h3>10+</h3><p data-zh="行业领域" data-en="Industries">行业领域</p></div>
+                <div class="stat-item"><h3>100%</h3><p data-zh="国产化适配" data-en="Domestic OS">国产化适配</p></div>
+                <div class="stat-item"><h3>24/7</h3><p data-zh="技术支持" data-en="Support">技术支持</p></div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand"><h3>青岛仪软智汇科技有限公司</h3><p>专注于实验室信息管理系统及相关核心技术的研发，为检验检测机构和企业提供完整的数字化解决方案。</p></div>
+            <div class="footer-links"><h4>快速链接</h4><ul><li><a href="about.html">关于我们</a></li><li><a href="products.html">产品服务</a></li><li><a href="solutions.html">解决方案</a></li><li><a href="contact.html">联系我们</a></li></ul></div>
+            <div class="footer-links"><h4>产品中心</h4><ul><li><a href="#">LIMS系统</a></li><li><a href="#">ERP管理平台</a></li><li><a href="#">国产化方案</a></li></ul></div>
+            <div class="footer-links"><h4>联系方式</h4><ul><li>📍 青岛市</li><li>📞 400-XXX-XXXX</li><li>✉️ contact@yiruan.com</li></ul></div>
+        </div>
+        <div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司 All Rights Reserved. | 鲁ICP备XXXXXXXX号</p></div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>产品服务 - 青岛仪软智汇科技有限公司</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch"><button class="active" data-lang="zh">中</button><button data-lang="en">EN</button></div>
+    <nav class="navbar"><div class="nav-container"><div class="logo"><div class="logo-icon">仪</div><div class="logo-text"><h1>青岛仪软智汇</h1><span>实验室信息化解决方案专家</span></div></div><ul class="nav-menu"><li><a href="index.html">首页</a></li><li><a href="about.html">关于我们</a></li><li><a href="products.html" class="active">产品服务</a></li><li><a href="solutions.html">解决方案</a></li><li><a href="clients.html">客户案例</a></li><li><a href="contact.html">联系我们</a></li></ul><div class="mobile-menu-btn"><span></span><span></span><span></span></div></div></nav>
+    <main><section class="page-header"><h1>产品与服务</h1><p>覆盖实验室全流程的数字化管理解决方案</p></section>
+    <div class="page-content">
+        <div class="content-section"><h2>实验室信息管理系统(LIMS)</h2><p>我们的LIMS系统是专为计量校准、检验检测实验室设计的全流程管理软件。系统涵盖样品管理、任务分配、检测执行、数据记录、报告生成、质量控制等全业务流程，帮助实验室实现信息化、规范化、标准化管理。</p><div class="features-grid"><div class="feature-card"><div class="feature-icon">📋</div><h3>样品管理</h3><p>全流程样品追踪，从接样到报告的全生命周期管理。</p></div><div class="feature-card"><div class="feature-icon">📊</div><h3>检测管理</h3><p>任务分配、进度跟踪、结果录入、自动计算。</p></div><div class="feature-card"><div class="feature-icon">📄</div><h3>报告管理</h3><p>自动生成检测报告，支持电子签章和报告追溯。</p></div><div class="feature-card"><div class="feature-icon">✅</div><h3>质量管理</h3><p>质控样品管理、能力验证、不确定度评定。</p></div></div></div>
+        <div class="content-section"><h2>低代码ERP管理平台</h2><p>基于低代码技术的企业资源管理平台，通过可视化配置和模块化设计，快速构建符合企业需求的业务应用。平台支持流程自定义、表单自定义、报表自定义，大幅降低企业信息化建设成本。</p><div class="features-grid"><div class="feature-card"><div class="feature-icon">🎨</div><h3>可视化设计</h3><p>拖拽式界面设计，无需编程即可构建应用。</p></div><div class="feature-card"><div class="feature-icon">⚙️</div><h3>流程引擎</h3><p>灵活的流程配置，支持复杂业务流程自动化。</p></div><div class="feature-card"><div class="feature-icon">📈</div><h3>数据分析</h3><p>自定义报表和仪表盘，实时掌握业务数据。</p></div><div class="feature-card"><div class="feature-icon">🔌</div><h3>系统集成</h3><p>开放API接口，支持与第三方系统无缝对接。</p></div></div></div>
+        <div class="content-section"><h2>国产化解决方案</h2><p>响应国家信创战略，我们的产品已完成全面国产化适配，支持国产操作系统（麒麟、统信UOS等）、国产数据库（达梦、人大金仓等）和国产中间件，满足政府和企业信创建设要求。</p><div class="solutions"><div class="solutions-grid"><div class="solution-card"><div class="solution-icon">🖥️</div><h3>国产操作系统</h3><p>麒麟、统信UOS、中科方德</p></div><div class="solution-card"><div class="solution-icon">🗄️</div><h3>国产数据库</h3><p>达梦、人大金仓、南大通用</p></div><div class="solution-card"><div class="solution-icon">🔧</div><h3>国产中间件</h3><p>东方通、金蝶天燕、宝兰德</p></div><div class="solution-card"><div class="solution-icon">💻</div><h3>国产芯片</h3><p>龙芯、飞腾、鲲鹏、兆芯</p></div></div></div></div>
+    </div></main>
+    <footer class="footer"><div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司</p></div></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>解决方案 - 青岛仪软智汇科技有限公司</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch"><button class="active" data-lang="zh">中</button><button data-lang="en">EN</button></div>
+    <nav class="navbar"><div class="nav-container"><div class="logo"><div class="logo-icon">仪</div><div class="logo-text"><h1>青岛仪软智汇</h1><span>实验室信息化解决方案专家</span></div></div><ul class="nav-menu"><li><a href="index.html">首页</a></li><li><a href="about.html">关于我们</a></li><li><a href="products.html">产品服务</a></li><li><a href="solutions.html" class="active">解决方案</a></li><li><a href="clients.html">客户案例</a></li><li><a href="contact.html">联系我们</a></li></ul><div class="mobile-menu-btn"><span></span><span></span><span></span></div></div></nav>
+    <main><section class="page-header"><h1>行业解决方案</h1><p>深耕行业，为不同领域客户提供专业的数字化解决方案</p></section>
+    <div class="page-content">
+        <div class="content-section"><h2>计量校准行业</h2><p>为计量校准机构提供从业务受理、任务分配、标准器管理、原始记录、证书生成到费用结算的全流程管理解决方案。系统符合ISO/IEC 17025要求，支持CNAS认可实验室的管理需求。</p><div class="features-grid"><div class="feature-card"><div class="feature-icon">📋</div><h3>业务受理</h3><p>客户委托、样品登记、报价管理、合同管理。</p></div><div class="feature-card"><div class="feature-icon">⚖️</div><h3>标准器管理</h3><p>计量标准台账、溯源管理、期间核查、状态监控。</p></div><div class="feature-card"><div class="feature-icon">📄</div><h3>证书管理</h3><p>校准证书自动生成、电子签章、证书查询验证。</p></div></div></div>
+        <div class="content-section"><h2>检验检测行业</h2><p>为第三方检测机构、企业实验室提供覆盖检测业务全流程的管理系统。从样品接收、检测任务分配、实验数据记录、结果审核到报告发布，实现检测业务的标准化、规范化管理。</p><div class="features-grid"><div class="feature-card"><div class="feature-icon">🔬</div><h3>检测流程</h3><p>方法管理、任务分配、检测执行、数据审核。</p></div><div class="feature-card"><div class="feature-icon">✅</div><h3>质量控制</h3><p>质控图、平行样、加标回收、能力验证。</p></div><div class="feature-card"><div class="feature-icon">📊</div><h3>数据分析</h3><p>统计报表、趋势分析、质量追溯。</p></div></div></div>
+        <div class="content-section"><h2>生产制造行业</h2><p>针对制药、石油化工、冶金电力、智能制造等领域的质量控制需求，提供从原料检验、过程控制、成品检验到质量追溯的完整解决方案，助力企业实现质量管理的数字化转型。</p><div class="solutions"><div class="solutions-grid"><div class="solution-card"><div class="solution-icon">💊</div><h3>制药行业</h3><p>符合GMP要求，支持药品全生命周期质量管理。</p></div><div class="solution-card"><div class="solution-icon">🛢️</div><h3>石油化工</h3><p>原料检验、过程分析、产品质量控制。</p></div><div class="solution-card"><div class="solution-icon">⚡</div><h3>冶金电力</h3><p>材料检验、设备检测、安全监测。</p></div><div class="solution-card"><div class="solution-icon">🤖</div><h3>智能制造</h3><p>自动化检测、数据采集、智能分析。</p></div></div></div></div>
+    </div></main>
+    <footer class="footer"><div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司</p></div></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关于我们 - 青岛仪软智汇科技有限公司</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch"><button class="active" data-lang="zh">中</button><button data-lang="en">EN</button></div>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo"><div class="logo-icon">仪</div><div class="logo-text"><h1>青岛仪软智汇</h1><span>实验室信息化解决方案专家</span></div></div>
+            <ul class="nav-menu">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="about.html" class="active">关于我们</a></li>
+                <li><a href="products.html">产品服务</a></li>
+                <li><a href="solutions.html">解决方案</a></li>
+                <li><a href="clients.html">客户案例</a></li>
+                <li><a href="contact.html">联系我们</a></li>
+            </ul>
+            <div class="mobile-menu-btn"><span></span><span></span><span></span></div>
+        </div>
+    </nav>
+    <main>
+        <section class="page-header"><h1>关于我们</h1><p>专注实验室信息化，助力企业数字化转型</p></section>
+        <div class="page-content">
+            <div class="content-section"><h2>公司简介</h2><p>青岛仪软智汇科技有限公司多年来一直专注于实验室信息管理系统及相关核心技术的研发，形成了应用于计量校准、检验检测等不同领域的系列产品，并在此基础上形成低代码的ERP管理平台，产品全面兼容国产化操作系统，为检验检测机构和企业提供完整的数字化解决方案和全面的管理平台，帮助客户构建高效、安全全程电子化的运行环境。</p><p>目前，我们的近千家客户遍布计量校准、检验检测、生产制造(制药、石油化工、冶金电力、智能制造)等各领域，依靠我们不断研发的核心技术和服务体系，致力于为客户提供更好的产品和服务。</p></div>
+            <div class="content-section"><h2>发展历程</h2><div class="timeline"><div class="timeline-item"><h3>创立初期</h3><p>公司成立，开始专注于实验室信息化领域的探索和研究，组建核心技术团队。</p></div><div class="timeline-item"><h3>产品研发</h3><p>成功研发出第一代实验室信息管理系统(LIMS)，并在计量校准行业获得首批客户认可。</p></div><div class="timeline-item"><h3>业务拓展</h3><p>产品线扩展至检验检测、生产制造等多个领域，客户数量突破500家。</p></div><div class="timeline-item"><h3>信创适配</h3><p>完成产品全面国产化适配，推出低代码ERP管理平台，服务客户近千家。</p></div></div></div>
+            <div class="content-section"><h2>企业文化</h2><div class="features-grid"><div class="feature-card"><div class="feature-icon">🎯</div><h3>使命</h3><p>以技术创新推动实验室数字化转型，为客户创造更大价值。</p></div><div class="feature-card"><div class="feature-icon">👁️</div><h3>愿景</h3><p>成为实验室信息化领域的领先企业，打造行业标杆产品。</p></div><div class="feature-card"><div class="feature-icon">💎</div><h3>价值观</h3><p>专业、创新、诚信、共赢，持续为客户创造价值。</p></div></div></div>
+        </div>
+    </main>
+    <footer class="footer"><div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司</p></div></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>客户案例 - 青岛仪软智汇科技有限公司</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="lang-switch"><button class="active" data-lang="zh">中</button><button data-lang="en">EN</button></div>
+    <nav class="navbar"><div class="nav-container"><div class="logo"><div class="logo-icon">仪</div><div class="logo-text"><h1>青岛仪软智汇</h1><span>实验室信息化解决方案专家</span></div></div><ul class="nav-menu"><li><a href="index.html">首页</a></li><li><a href="about.html">关于我们</a></li><li><a href="products.html">产品服务</a></li><li><a href="solutions.html">解决方案</a></li><li><a href="clients.html" class="active">客户案例</a></li><li><a href="contact.html">联系我们</a></li></ul><div class="mobile-menu-btn"><span></span><span></span><span></span></div></div></nav>
+    <main><section class="page-header"><h1>客户案例</h1><p>近千家客户的信赖之选，遍布各行业领域</p></section>
+    <div class="page-content">
+        <div class="content-section"><h2>客户分布</h2><p>我们的客户遍布全国各省市，涵盖计量校准、检验检测、生产制造等多个行业领域。凭借专业的技术实力和优质的服务，我们赢得了客户的广泛认可和长期合作。</p><div class="stats"><div class="stats-grid"><div class="stat-item"><h3>1000+</h3><p>服务客户</p></div><div class="stat-item"><h3>30+</h3><p>覆盖省份</p></div><div class="stat-item"><h3>95%</h3><p>客户满意度</p></div><div class="stat-item"><h3>80%</h3><p>续约率</p></div></div></div></div>
+        <div class="content-section"><h2>行业覆盖</h2><div class="products-grid"><div class="product-card"><div class="product-image">⚖️</div><div class="product-content"><h3>计量校准机构</h3><p>为各级计量院、校准公司提供专业LIMS系统，实现校准业务全流程管理。</p></div></div><div class="product-card"><div class="product-image">🔬</div><div class="product-content"><h3>检验检测机构</h3><p>第三方检测机构、环境监测站、食品药品检验所等专业检测实验室。</p></div></div><div class="product-card"><div class="product-image">🏭</div><div class="product-content"><h3>生产制造企业</h3><p>制药、化工、冶金、电力、智能制造等企业质量控制部门。</p></div></div><div class="product-card"><div class="product-image">🏛️</div><div class="product-content"><h3>政府与科研单位</h3><p>科研院所、高校实验室、疾控中心、市场监管等机构。</p></div></div></div></div>
+        <div class="content-section"><h2>典型案例</h2><div class="features-grid"><div class="feature-card"><div class="feature-icon">🏢</div><h3>某省级计量科学研究院</h3><p>全面部署LIMS系统，实现仪器校准、证书管理、质量控制全流程数字化。</p></div><div class="feature-card"><div class="feature-icon">🧪</div><h3>某国家级检测中心</h3><p>建设实验室综合管理平台，满足CNAS认可要求，提升检测效率300%。</p></div><div class="feature-card"><div class="feature-icon">💊</div><h3>大型制药集团</h3><p>搭建质量管控系统，实现从原料到成品的全流程质量追溯管理。</p></div><div class="feature-card"><div class="feature-icon">🌍</div><h3>环境监测中心站</h3><p>构建环境检测数据管理平台，实现监测数据自动采集、分析与上报。</p></div></div></div>
+    </div></main>
+    <footer class="footer"><div class="footer-bottom"><p>&copy; 2024 青岛仪软智汇科技有限公司</p></div></footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
